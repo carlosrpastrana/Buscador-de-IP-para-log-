@@ -21,15 +21,18 @@ Ideal para analizar archivos de log de gran tamaño en entornos Linux de forma r
 ✅ Top 10 puertos más accedidos en el log
 ✅ Compatible con cualquier archivo de texto plan
 
-### Intalacion ###:
+### Intalacion :
 
 git clone https://github.com/tuusuario/log_analyzerIP.git
+
 cd log_analyzerIP
+
 chmod +x log_analyzerIP.sh
 
-### Uso ###:
+### Uso :
 
 Ejecuta el script indicando el archivo de log que quieres analizar:
+
 ejemplo: ./log_analyzerIP.sh access.log
 
 🔍 Casos de uso
