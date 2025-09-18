@@ -23,7 +23,7 @@ Ideal para analizar archivos de log de gran tamaño en entornos Linux de forma r
 
 ### Intalacion :
 
-git clone https://github.com/tuusuario/log_analyzerIP.git
+git clone https://github.com/carlosrpastrana/log_analyzerIP.git
 
 cd log_analyzerIP
 
